@@ -1,0 +1,14 @@
+{
+    "name": "wilson/monitor-dispatch",
+    "description": "聊天监控sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WILSON",
+            "email": "976293711@qq.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^3.0"
+    }
+}
